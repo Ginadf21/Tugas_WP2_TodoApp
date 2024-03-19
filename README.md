@@ -1,5 +1,5 @@
-# Tugas  (Ganti Nama Tugas)
+# Tugas  (Membuat Aplikasi Todo)
 <ul>
-  <li>Tugas: {Nama Tugas}</li>
-  <li>Nama: {Nama}</li>
+  <li>Tugas: {Membuat Aplikasi Todo}</li>
+  <li>Nama: {Gina Deisri Fadila}</li>
 </ul>
